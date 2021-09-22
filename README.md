@@ -1,4 +1,4 @@
 # mayo0112.github.io
 
-[view](view.jpg)
-![view](view.jpg)
+[圖的簡稱](view.jpg)
+![圖的簡稱](view.jpg)
